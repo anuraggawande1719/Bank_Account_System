@@ -1,0 +1,2 @@
+#Implement a simple bank account system with classes representing accounts,transactions, and customers.
+#Use packages to organize different functionalities such as account management and transaction processing.s
